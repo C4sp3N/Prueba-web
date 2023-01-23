@@ -6,3 +6,4 @@ Estas serán las herramientas a utilizar para nuestro cometido:
 - GitHub
 - Markdown
 - Latex
+- Grafana
